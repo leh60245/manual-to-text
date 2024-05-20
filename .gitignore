@@ -1,2 +1,4 @@
 data/
 text_to_json/
+
+*.pt
